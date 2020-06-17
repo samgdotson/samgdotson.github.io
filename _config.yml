@@ -1,9 +1,9 @@
 lang: en-US
 title: Samuel Dotson
 email: samgdotson@gmail.com
-description: Sam Dotson's Personal Website. Opinions his own.
+description: "Sam Dotson's Personal Website. Opinions his own."
 baseurl: ""# the optional subpath of your site, e.g. "/blog"
-url: samgdotson.github.io
+url: ""#samgdotson.github.io
 author:
   name: Samuel Dotson
   twitter: samgdotson
