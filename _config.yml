@@ -34,6 +34,7 @@ plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
 feed:
   path: atom.xml
 
