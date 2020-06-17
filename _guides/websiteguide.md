@@ -1,5 +1,5 @@
 ---
-layout: post
+<!-- layout: post -->
 title: How to Build a Website with GitHub Pages
 ---
 
