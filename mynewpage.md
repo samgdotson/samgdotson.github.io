@@ -1,6 +1,10 @@
 ---
-layout: default
+layout: post
 title: My New Page
+
+author:
+  name: Sam Dotson
+  twitter: samgdotson
 ---
 
 ### Personal Info
