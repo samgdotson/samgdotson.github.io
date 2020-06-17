@@ -9,10 +9,10 @@ author:
   twitter: samgdotson
   picture: /assets/images/dotsons.png
 twitter_username: samgdotson
-github_username: samgdotson
+# github_username: samgdotson
 logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: true # true, false (default)
-search_full_content: true # true, false (default)
+search: false # true, false (default)
+search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
@@ -34,6 +34,7 @@ plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
 feed:
   path: atom.xml
 
