@@ -3,6 +3,8 @@ layout: post
 title: How to Build a Website with GitHub Pages
 ---
 
+### Step 0: Make a GitHub account
+
 ### Step 1: Create a new repository on GitHub
 
 - Call it [username].github.io
@@ -13,39 +15,25 @@ title: How to Build a Website with GitHub Pages
 Since this is a beginner tutorial, we can choose a simple theme supported
 by GitHub pages. My go-to is ``cayman`` but you can pick any one you'd like.
 
+![select-theme](assets/images/website-guide/select-a-theme.png)
+
 Once you hit "Select Theme" GitHub will automatically create a ``_config.yml``
 file and update your ``README.md``. To continue, hit "Commit Changes".
 
 After a few minutes, GitHub will publish your website.
 
-### Step 3.1 Adding a ``Gemfile``
 
-In order to build your website locally, you'll have to create a ``Gemfile``.
+### (Optional) Building Your Website Locally
 
-- In your website repository simply select "Create new file"
-- Call it ``Gemfile`` (**no extension**)
-- Add the code:
+This is an optional step because you can preview Markdown files in
+the GitHub file editor.
 
-```ruby
-source 'https://rubygems.org'
+![preview1](assets/images/website-guide/preview-changes.png) | ![preview1](assets/images/website-guide/preview-changes2.png)
 
-gem 'jekyll', '3.8.5'
+However, it can be beneficial to check the changes you're going to make before
+publishing them. Check [here](docs/websiteguide/localbuild.html) for instructions
+on how to build your website locally with ``jekyll``.
 
-group :jekyll_plugins do
- gem 'jekyll-theme-cayman'
-
-end
-```
-- Commit your changes once again!
-
-### Step 3.2: Build your website locally
-
-Open terminal or command prompt and run
-
-``bundle exec jekyll install``
-
-you may have to run ``bundle install``, Jekyll should tell you what to do
-in the error message.
 
 ### Step 4: Create a Home page
 
@@ -65,7 +53,7 @@ title: Home
 
 ```
 
-- Add a small commit message
+- Add a small commit message (e.g. "updates the home page")
 - Select "commit changes"
 
 
