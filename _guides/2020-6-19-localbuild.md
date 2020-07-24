@@ -146,4 +146,4 @@ git push origin [branch]
 
 ### That's it!
 
-[Let's go back to the main guide](websiteguide.html).
+[Let's go back to the main guide](https://samgdotson.github.io/guides/2020-6-18-websiteguide/).

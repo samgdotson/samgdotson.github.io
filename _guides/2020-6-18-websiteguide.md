@@ -31,7 +31,7 @@ the GitHub file editor.
 ![preview1](../../assets/images/website-guide/preview-changes.png) | ![preview1](../../assets/images/website-guide/preview-changes2.png)
 
 However, it can be beneficial to check the changes you're going to make before
-publishing them. Check [here](../localbuild.html) for instructions
+publishing them. Check [here](https://samgdotson.github.io/guides/2020-6-19-localbuid/) for instructions
 on how to build your website locally with ``jekyll``.
 
 
