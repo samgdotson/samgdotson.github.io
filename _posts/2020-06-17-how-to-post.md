@@ -14,3 +14,5 @@ introduction: |
 ---
 
 # This is a guide for how to post to the website.
+
+![test]({{ BASE_PATH }}/assets/images/oregon_sam.jpg)
