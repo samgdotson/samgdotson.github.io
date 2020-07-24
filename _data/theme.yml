@@ -37,6 +37,5 @@ navigation_pages:
   - about.md
   - recipes.md
   - posts.md
-  - ./docs/websiteguide/websiteguide.md
   - guides.md
   - cv.md

@@ -3,6 +3,14 @@ layout: post
 title: How to Build a Website with GitHub Pages
 ---
 
+I wrote this guide to help my mother build a free personal website that looks
+good, is easy to maintain, and did I mention that it's **free**?
+
+I think she did a marvelous job. Her website can be found at [jenniferdotsonpoet.com](http://jenniferdotsonpoet.com/)
+
+Hopefully this will help you establish a stronger internet presence and add a
+project to your portfolio.
+
 ### Step 0: Make a GitHub account
 
 ### Step 1: Create a new repository on GitHub
@@ -31,7 +39,7 @@ the GitHub file editor.
 ![preview1](../../assets/images/website-guide/preview-changes.png) | ![preview1](../../assets/images/website-guide/preview-changes2.png)
 
 However, it can be beneficial to check the changes you're going to make before
-publishing them. Check [here](https://samgdotson.github.io/guides/2020-6-19-localbuid/) for instructions
+publishing them. Check [here](https://samgdotson.github.io/guides/2020-6-19-localbuild/) for instructions
 on how to build your website locally with ``jekyll``.
 
 
@@ -104,5 +112,5 @@ easy, just adjust the link code to your new page and add it to ``mynewpage.md``.
 You now have the tools you need to make basic changes to your website.
 
 There are some slightly more advanced things you can do with your website:
-- [Add a fancier theme](../2020-6-19-fancythemes.md)
+- [Add a fancier theme](https://samgdotson.github.io/guides/2020-6-19-fancythemes/)
 - Add a custom domain name to your website
