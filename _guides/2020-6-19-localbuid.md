@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Locally Build Your Website
+title: Build Your Website Locally
 ---
 
 If you want to check your work before publishing to your live website, keep
@@ -113,7 +113,7 @@ commit changes to it!
 
 ![localhost](../../assets/images/website-guide/localhost.png)
 
-### Step 7: Making Changes
+### Step 6: Making Changes
 
 Making changes to your website locally is powerful. However, to do so you need
 a text editor (MS Word is *not* a text editor).
@@ -127,7 +127,7 @@ a text editor (MS Word is *not* a text editor).
 Save your changes and refresh the ``localhost:4000`` page to see them.
 
 
-### Step 8: Publishing Changes
+### Step 7: Publishing Changes
 
 You're happy with the changes you've made to ``mynewpage.md`` and you want
 to publish them to your live website.
@@ -146,4 +146,4 @@ git push origin [branch]
 
 ### That's it!
 
-[Let's go back to the main guide](../../websiteguide.html).
+[Let's go back to the main guide](websiteguide.html).
